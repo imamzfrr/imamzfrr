@@ -1,14 +1,14 @@
-# Halo semua! 
+# Hello everyone!
 
-Perkenalkan nama saya **Imam Zufar Waliyyudin**.<br>
+My name is **Imam Zufar Waliyyudin**.<r>
 
-Saya seorang **Mahasiswa Sistem Informasi** di Universitas Brawijaya.<br>
+I'm a **Information Systems Student** at Brawijaya University.<br>
 
-Saya mempunyai minat tinggi dalam Android Mobile Development.<br>
+I have a strong interest in Android Mobile Development.<br>
 
-Saya juga sedang menjalani program Bangkit Academy 2024 dengan pathway Mobile Development<br>
+Currently, I am participating in the Bangkit Academy 2024 program, focusing on the Mobile Development pathway<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/imamzfr/) ku ya.
+If you're interested in connecting with me, please follow my LinkedIn account! [Linkedin](https://www.linkedin.com/in/imamzfr/)
 
 ### Github Statistic
 <p align="left">
